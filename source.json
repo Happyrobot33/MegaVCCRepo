@@ -12,6 +12,7 @@
         "Mattshark89/OpenFlight-VRC",
         "Happyrobot33/Happys-VRC-tools",
         "CyanLaser/CyanTrigger",
-        "Varneon/VUdon-ArrayExtensions"
+        "Varneon/VUdon-ArrayExtensions",
+        "Varneon/VUdon-Vehicles-Base"
     ]
 }

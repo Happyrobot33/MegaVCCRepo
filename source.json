@@ -7,6 +7,9 @@
     },
     "description":"A Mega community Repository for the VCC",
     "githubRepos": [
-        "CyanLaser/CyanPlayerObjectPool"
+        "CyanLaser/CyanPlayerObjectPool",
+        "Happyrobot33/PhysboneConstraints",
+        "Mattshark89/OpenFlight-VRC",
+        "Happyrobot33/Happys-VRC-tools"
     ]
 }

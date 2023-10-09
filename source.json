@@ -10,6 +10,8 @@
         "CyanLaser/CyanPlayerObjectPool",
         "Happyrobot33/PhysboneConstraints",
         "Mattshark89/OpenFlight-VRC",
-        "Happyrobot33/Happys-VRC-tools"
+        "Happyrobot33/Happys-VRC-tools",
+        "CyanLaser/CyanTrigger",
+        "Varneon/Repositories"
     ]
 }

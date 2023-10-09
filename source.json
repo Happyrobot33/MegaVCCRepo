@@ -1,12 +1,12 @@
 {
-    "name":"Template Package Repository",
-    "id":"com.YOUR_GITHUB_NAME.REPO_NAME.repo",
-    "url":"https://YOUR_GITHUB_NAME.github.io/REPO_NAME/index.json",
+    "name":"Mega VCC Repo",
+    "id":"com.Happyrobot33.MEGA.repo",
+    "url":"https://www.matthewherber.com/Happys-VRC-tools/index.json",
     "author": {
-        "name": "Your Name"
+        "name": "Happyrobot33"
     },
-    "description":"A example package repository",
+    "description":"A Mega community Repository for the VCC",
     "githubRepos": [
-        "YOUR_GITHUB_NAME/REPO_NAME"
+        "https://github.com/CyanLaser/CyanPlayerObjectPool"
     ]
 }
